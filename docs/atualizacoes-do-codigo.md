@@ -1,6 +1,6 @@
 # Versionamento das próximas atualizações
 
-A pasta `source/` contém a exportação real do ATLAS. A documentação anterior permanece na raiz e em docs/. O site publicado não é alterado por esta importação.
+A pasta `source/` contém a exportação real do MEINERZ UNIFORM STUDIO. A documentação anterior permanece na raiz e em docs/. O site publicado não é alterado por esta importação.
 
 1. Obter um checkout atualizado usando o acesso autorizado de código do Sites para o mesmo project_id. Não guardar credenciais no repositório.
 2. Em um clone atualizado deste GitHub, executar `python3 scripts/sync_source.py /caminho/do/checkout-autorizado`. O script lê os arquivos do commit de origem, faz a varredura antes da substituição e atualiza o manifesto. Não lê .env locais nem importa o histórico antigo.

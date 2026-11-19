@@ -2,10 +2,15 @@
 
 Plataforma de Andrei Raimundi para criação de uniformes, apresentações, pedidos e orçamentos.
 
-**Snapshot histórico documentado: v90 — 04/11/2026.** Fonte sincronizada em `source/`,524 arquivos com manifesto SHA-256. Autoria declarada: Andrei Raimundi; direitos reservados.
+**Repositório oficial de continuidade:** https://github.com/AtlasAndreiRaimundi/Meinerz-Uniform-Studio
 
-Nome oficial atualizado em 19/11/2026: **MEINERZ UNIFORM STUDIO**. O nome do repositório é legado. A versão publicada atual ainda precisa ser comparada com a fonte. Consulte [instruções](AGENTS.md) e [handoff](docs/HANDOFF-2026-11-19.md).
+Fonte atualizada a partir do Sites v133, commit `586bc06e787d376b6670691a9ce955798dda6b14`. Consulte `source-manifest.json` para o inventário e os hashes de cada arquivo exportado. As 35 branches e o histórico do repositório Atlas foram preservados no destino.
 
+Leia [instruções](AGENTS.md), [transferência](docs/TRANSFERENCIA-2026-11-19.md), [comando para a outra conta](docs/CONTINUAR-NA-OUTRA-CONTA.md) e [handoff](docs/HANDOFF-2026-11-19.md).
+
+O GitHub preserva código e ativos versionados. Banco, uploads de usuários, autenticação, segredos e titularidade da hospedagem exigem acesso próprio. Não houve deploy nem migração de dados nesta transferência.
+
+As seções abaixo descrevem marcos históricos v87–v90; o catálogo e o código atuais estão em `source/`. Elas não limitam o inventário da versão 133.
 ## Módulos
 
 - **Orçamentos:** camiseta + calção, componentes, valor por kit, quantidade, desconto, vendedor obrigatório e apresentação opcional. Salvar, reabrir, excluir e conferir para imprimir/salvar PDF, sem exigir pedido ou desenho.

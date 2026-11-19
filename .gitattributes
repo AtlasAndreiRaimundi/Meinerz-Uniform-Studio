@@ -1,0 +1,2 @@
+# Preserve the exact exported bytes verified by source-manifest.json.
+source/** -text

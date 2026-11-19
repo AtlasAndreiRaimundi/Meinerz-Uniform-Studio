@@ -1,3 +1,11 @@
+## 19/11/2026 — Repositório Meinerz e exportação v133
+
+- Novo repositório de continuidade: AtlasAndreiRaimundi/Meinerz-Uniform-Studio.
+- Copiadas as 35 branches e o histórico de commits do Atlas, sem reescrita.
+- Fonte atualizada a partir do Sites v133, commit 586bc06e787d376b6670691a9ce955798dda6b14: 7.029 arquivos com manifesto SHA-256.
+- Exportador passa a ler blobs em lote, preservando bytes e evitando limitações de caminhos longos. Atributos Git protegem a fonte contra conversão de finais de linha.
+- Instruções de continuidade e limites da transferência registrados em docs/TRANSFERENCIA-2026-11-19.md e docs/CONTINUAR-NA-OUTRA-CONTA.md.
+- Nenhum deploy, alteração funcional ou migração de dados de produção.
 ## 19/11/2026 — Nome oficial e transferência
 
 MEINERZ UNIFORM STUDIO substitui Atlas Uniform Studio na documentação de continuidade. Identificadores técnicos legados preservados. Handoff e AGENTS registrados; sincronização com Sites e validação de produção pendentes. Nenhuma alteração funcional nesta entrega.

@@ -1,5 +1,11 @@
 # AGENTS.md — MEINERZ UNIFORM STUDIO
 
+Repositório oficial de continuidade: `AtlasAndreiRaimundi/Meinerz-Uniform-Studio`.
+Leia também `docs/TRANSFERENCIA-2026-11-19.md` e
+`docs/CONTINUAR-NA-OUTRA-CONTA.md`. A fonte exportada foi atualizada ao Sites
+v133; o manifesto por arquivo registra a origem e os hashes. Não confunda a
+cópia Git com transferência de banco, arquivos de usuários ou titularidade.
+
 Criador: Andrei Raimundi. Este repositório é o ponto de continuidade do projeto. Antes de alterar qualquer arquivo, leia README.md, CHANGELOG.md, docs/atualizacoes-do-codigo.md e docs/HANDOFF-2026-11-19.md. O handoff distingue requisitos de implementação verificada. A versão publicada no Sites pode estar à frente do GitHub: não implante um snapshot antigo sobre produção.
 
 ## Regras obrigatórias
